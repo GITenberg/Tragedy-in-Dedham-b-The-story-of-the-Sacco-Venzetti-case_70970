@@ -1,0 +1,27 @@
+_repo: Tragedy-in-Dedham-b-The-story-of-the-Sacco-Venzetti-case_70970
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Russell, Francis
+    gutenberg_agent_id: '56014'
+    url: http://www.gutenberg.org/2009/agents/56014
+description: ''
+gutenberg_issued: '2023-06-13'
+identifiers:
+  gutenberg: '70970'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/mdp.39015068646978
+pgterms:marc905: 20200416025119russell
+pgterms:marc906: '1962'
+pgterms:marc907: US
+production_note: Bob Taylor, Tim Lindell and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This book was produced from images made available by the
+  HathiTrust Digital Library.)
+publication_note: '  $aUnited States :$bMcGraw-Hill, $c1962.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Tragedy in Dedham : $b The story of the Sacco-Venzetti case'
+url: http://www.gutenberg.org/ebooks/70970
