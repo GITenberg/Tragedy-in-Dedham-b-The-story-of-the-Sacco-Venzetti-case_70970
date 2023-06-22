@@ -1,11 +1,16 @@
 _repo: Tragedy-in-Dedham-b-The-story-of-the-Sacco-Venzetti-case_70970
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70970-h/images/cover.jpg
 creator:
   author:
     agent_name: Russell, Francis
     gutenberg_agent_id: '56014'
     url: http://www.gutenberg.org/2009/agents/56014
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70970#Tragedy-in-Dedham-b-The-story-of-the-Sacco-Venzetti-case
 gutenberg_issued: '2023-06-13'
 identifiers:
   gutenberg: '70970'
